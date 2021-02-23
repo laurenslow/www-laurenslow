@@ -9,7 +9,7 @@ navbar:
     - text: "About Me"
       icon: fa-user-check
       href: about.html
-    - text: "Stories"
+    - text: "Reading list"
       icon: fa-book
       menu:
         - text: "Story 1"
