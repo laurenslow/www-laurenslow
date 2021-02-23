@@ -1,7 +1,7 @@
 name: "www"
 output_dir: "../docs"
 navbar:
-  title: "Your Name"
+  title: "YLauren Low"
   left:
     - text: "Home"
       icon: fa-home
@@ -10,7 +10,7 @@ navbar:
       icon: fa-user-check
       href: about.html
     - text: "Stories"
-      icon: fa-newspaper
+      icon: fa-book
       menu:
         - text: "Story 1"
           href: story1.html
