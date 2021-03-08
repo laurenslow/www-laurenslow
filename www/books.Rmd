@@ -1,0 +1,19 @@
+---
+title: "Here's what I've been reading recently"
+output: html_document
+---
+Click each book to view the thoughts I had while reading.
+
+[![Data Feminism](images/df.png)](df/df_home.html)
+[Data Feminism](df/df_home.html)
+
+[![Damned Lies and Statistics](images/damned_lies.png)](damned_lies.html)
+[Damned Lies and Statistics](damned_lies.html)
+
+
+
+
+
+
+
+

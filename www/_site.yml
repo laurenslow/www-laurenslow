@@ -1,7 +1,7 @@
 name: "www"
 output_dir: "../docs"
 navbar:
-  title: "YLauren Low"
+  title: "Lauren Low"
   left:
     - text: "Home"
       icon: fa-home
@@ -11,11 +11,7 @@ navbar:
       href: about.html
     - text: "Reading list"
       icon: fa-book
-      menu:
-        - text: "Story 1"
-          href: story1.html
-        - text: "Story 2"
-          href: story2.html
+      href: books.html
   right:
     - icon: fa-envelope 
       href: mailto:bbaumer@smith.edu

@@ -1,0 +1,11 @@
+---
+title: "My thouhgts while reading Data Feminism"
+---
+
+[Introduction: Why Data Science Needs Feminism](df_intro.html)
+
+[Chapter 1: The Power Chapter](df_ch1.html)
+
+[Chapter 2: Collect, Analyze, Imagine, Teach](df_ch2.html)
+
+Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints (coming soon)
