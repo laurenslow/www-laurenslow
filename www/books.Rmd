@@ -3,12 +3,15 @@ title: "Here's what I've been reading recently"
 output: html_document
 ---
 Click each book to view the thoughts I had while reading.
+<div class=row>
 
-[![Data Feminism](images/df.png)](df/df_home.html)
-[Data Feminism](df/df_home.html)
+  <div class="col-md-6"><a href="df/df_home.html"><img src="images/df.png" alt="Fjords" style="width:100%"></div>
+  
+  <div class="col-md-6"><a href="damned_lies.html"><img src="images/damned_lies.png" alt="Fjords" style="width:100%"></div>
 
-[![Damned Lies and Statistics](images/damned_lies.png)](damned_lies.html)
-[Damned Lies and Statistics](damned_lies.html)
+</div>
+  
+
 
 
 
