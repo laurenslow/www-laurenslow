@@ -1,5 +1,9 @@
 ---
 title: "About Me"
+output:
+  html_document:
+    toc: false
 ---
 
-blah blah blah
+
+This is an outlet for my thoughts.  It's everything ranging from data analysis on the vaccine hesitency movement to things I talk about during in therapy.  

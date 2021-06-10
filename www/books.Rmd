@@ -5,7 +5,7 @@ output: html_document
 Click each book to view the thoughts I had while reading.
 <div class=row>
 
-  <div class="col-md-6"><a href="df/df_home.html"><img src="images/df.png" alt="Fjords" style="width:100%"></div>
+  <div class="col-md-6"><a href="df_home.html"><img src="images/df.png" alt="Fjords" style="width:100%"></div>
   
   <div class="col-md-6"><a href="damned_lies.html"><img src="images/damned_lies.png" alt="Fjords" style="width:100%"></div>
 

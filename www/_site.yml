@@ -1,18 +1,18 @@
 name: "www"
 output_dir: "../docs"
 navbar:
-  title: "big data and big emotions"
+  title: "Big Data and Big Emotions"
   left:
-    - text: "home"
+    - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "about"
+    - text: "About"
       icon: fa-user-check
       href: about.html
-    - text: "my writing"
+    - text: "My Writing"
       icon: fa-pen
       href: work.html
-    - text: "reading list"
+    - text: "Reading List"
       icon: fa-book-open
       href: books.html
   right:
